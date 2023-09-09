@@ -9,7 +9,7 @@ I am a full-stack oriented front-end developer.
 ## 👩🏻‍💻 About me
 
 - contact : jinseoit@gmail.com
-- develog : https://velog.io/@jinseoit
+- develog : https://velog.io/@radin
 
 ## 🛠 Tech Stack 🛠
 
@@ -20,7 +20,7 @@ SS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue](https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphQL&logoColor=black) ![Apollo](https://img.shields.io/badge/Apollo-311C87.svg?style=for-the-badge&logo=ApolloGraphQL&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphQL&logoColor=black) ![Apollo](https://img.shields.io/badge/Apollo-311C87.svg?style=for-the-badge&logo=ApolloGraphQL&logoColor=black)
 
 ### ⭐️ Backend
 
