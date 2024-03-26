@@ -9,7 +9,6 @@ I am a full-stack oriented front-end developer.
 ## 👩🏻‍💻 About me
 
 - contact : jinseoit@gmail.com
-- develog : https://velog.io/@radin
 
 ## 🛠 Tech Stack 🛠
 
